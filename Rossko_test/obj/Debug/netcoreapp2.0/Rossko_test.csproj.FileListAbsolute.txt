@@ -1,0 +1,11 @@
+C:\Users\Sergey\source\repos\Rossko_test\Rossko_test\bin\Debug\netcoreapp2.0\Rossko_test.deps.json
+C:\Users\Sergey\source\repos\Rossko_test\Rossko_test\bin\Debug\netcoreapp2.0\Rossko_test.runtimeconfig.json
+C:\Users\Sergey\source\repos\Rossko_test\Rossko_test\bin\Debug\netcoreapp2.0\Rossko_test.runtimeconfig.dev.json
+C:\Users\Sergey\source\repos\Rossko_test\Rossko_test\bin\Debug\netcoreapp2.0\Rossko_test.dll
+C:\Users\Sergey\source\repos\Rossko_test\Rossko_test\bin\Debug\netcoreapp2.0\Rossko_test.pdb
+C:\Users\Sergey\source\repos\Rossko_test\Rossko_test\obj\Debug\netcoreapp2.0\Rossko_test.csprojResolveAssemblyReference.cache
+C:\Users\Sergey\source\repos\Rossko_test\Rossko_test\obj\Debug\netcoreapp2.0\Rossko_test.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\source\repos\Rossko_test\Rossko_test\obj\Debug\netcoreapp2.0\Rossko_test.AssemblyInfoInputs.cache
+C:\Users\Sergey\source\repos\Rossko_test\Rossko_test\obj\Debug\netcoreapp2.0\Rossko_test.AssemblyInfo.cs
+C:\Users\Sergey\source\repos\Rossko_test\Rossko_test\obj\Debug\netcoreapp2.0\Rossko_test.dll
+C:\Users\Sergey\source\repos\Rossko_test\Rossko_test\obj\Debug\netcoreapp2.0\Rossko_test.pdb
