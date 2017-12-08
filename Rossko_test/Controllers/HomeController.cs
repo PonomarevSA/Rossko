@@ -1,9 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using Rossko_test.Services;
+using Rossko_test.Interfaces;
 
 namespace Rossko_test.Controllers
 {

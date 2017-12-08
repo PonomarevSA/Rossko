@@ -1,0 +1,16 @@
+C:\Users\Sergey\source\repos\Rossko_test\Rossko_test.Tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Sergey\source\repos\Rossko_test\Rossko_test.Tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netstandard15.dll
+C:\Users\Sergey\source\repos\Rossko_test\Rossko_test.Tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netstandard15.dll
+C:\Users\Sergey\source\repos\Rossko_test\Rossko_test.Tests\bin\Debug\netcoreapp2.0\Rossko_test.Tests.deps.json
+C:\Users\Sergey\source\repos\Rossko_test\Rossko_test.Tests\bin\Debug\netcoreapp2.0\Rossko_test.Tests.runtimeconfig.json
+C:\Users\Sergey\source\repos\Rossko_test\Rossko_test.Tests\bin\Debug\netcoreapp2.0\Rossko_test.Tests.runtimeconfig.dev.json
+C:\Users\Sergey\source\repos\Rossko_test\Rossko_test.Tests\bin\Debug\netcoreapp2.0\Rossko_test.Tests.dll
+C:\Users\Sergey\source\repos\Rossko_test\Rossko_test.Tests\bin\Debug\netcoreapp2.0\Rossko_test.Tests.pdb
+C:\Users\Sergey\source\repos\Rossko_test\Rossko_test.Tests\bin\Debug\netcoreapp2.0\Rossko_test.dll
+C:\Users\Sergey\source\repos\Rossko_test\Rossko_test.Tests\bin\Debug\netcoreapp2.0\Rossko_test.pdb
+C:\Users\Sergey\source\repos\Rossko_test\Rossko_test.Tests\obj\Debug\netcoreapp2.0\Rossko_test.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Sergey\source\repos\Rossko_test\Rossko_test.Tests\obj\Debug\netcoreapp2.0\Rossko_test.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\source\repos\Rossko_test\Rossko_test.Tests\obj\Debug\netcoreapp2.0\Rossko_test.Tests.AssemblyInfoInputs.cache
+C:\Users\Sergey\source\repos\Rossko_test\Rossko_test.Tests\obj\Debug\netcoreapp2.0\Rossko_test.Tests.AssemblyInfo.cs
+C:\Users\Sergey\source\repos\Rossko_test\Rossko_test.Tests\obj\Debug\netcoreapp2.0\Rossko_test.Tests.dll
+C:\Users\Sergey\source\repos\Rossko_test\Rossko_test.Tests\obj\Debug\netcoreapp2.0\Rossko_test.Tests.pdb

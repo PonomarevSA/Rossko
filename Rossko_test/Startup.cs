@@ -1,16 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Builder;
+﻿using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.DependencyInjection;
 using Rossko_test.Services;
 using Microsoft.EntityFrameworkCore;
 using Rossko_test.Model;
 using Microsoft.Extensions.Configuration;
-
+using Rossko_test.Core;
+using Rossko_test.Interfaces;
 
 namespace Rossko_test
 {
@@ -26,14 +22,17 @@ namespace Rossko_test
         // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=398940
         public void ConfigureServices(IServiceCollection services)
         {
-            
-
             string connection = Configuration.GetConnectionString("DefaultConnection");
             services.AddDbContext<RosskoContext>(options =>
                 options.UseSqlServer(connection));
             services.AddMvc();
 
+            services.AddTransient<IValidate, MyValidate>();
+            services.AddTransient<IJsonResult, MyJsonResult>();
+            services.AddTransient<IOptionResult, MyOptionResult>();
             services.AddTransient<IOptionsArray, MyOptionsArray>();
+
+            services.AddScoped<IRosskoRepository, RosskoRepository>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -50,11 +49,6 @@ namespace Rossko_test
                     name: "default",
                     template: "{controller=Home}/{action=Index}/{id?}");
             });
-            //app.Run(async (context) =>
-            //{
-            //    Char[] ar = new Char[] { '1', 'h', 'j', '6', '7', 'm', 'z', '2' };
-            //    await context.Response.WriteAsync(optionsArray.GetOptions(ar));
-            //});
         }
     }
 }

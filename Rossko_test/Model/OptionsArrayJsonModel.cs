@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
 using System.Runtime.Serialization;
 
 namespace Rossko_test.Model
@@ -9,7 +6,6 @@ namespace Rossko_test.Model
     [DataContract]
     public class OptionsArrayJsonModel
     {
-        //public string Input { get; set; }
         //варианты перестановок
         [DataMember]
         public List<string> Options { get; set; }
